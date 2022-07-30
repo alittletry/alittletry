@@ -76,8 +76,7 @@ Others	38 mins         █▓░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-> By the way, are you also curious about how to generate the list?
-> I wrote a script to generate it automatically, fork it. You can see [alittletry/alittletry](https://github.com/alittletry/alittletry).
+
 
 
 
