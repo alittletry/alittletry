@@ -10,7 +10,7 @@
 - 🔭 I have been writing some closed source projects, and occasionally open some open source projects .
 - 🌱 I have been working as a back-end developer in a company, including in the future, but I still like to do some other outsourcing work 
 - 🤔  Only two items I like best . 
-  1.  Applications involving high concurrency and data locking (https://github.com/DeepVTuber/MIMA). 
+  1.  Applications involving high concurrency and data locking. 
   2. <i> Civilian, large demand, but complex program design .
 
 
