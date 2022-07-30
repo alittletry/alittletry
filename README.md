@@ -1,4 +1,4 @@
-## Hi, 👋  I'm <a href="https://alittletry.github.io/" target="_blank">ZHANG WEI (alittletry)</a> <sup><a href="https://github.com/alittletry/alittletry/blob/master/Octoalittletry/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
+## Hi, 👋  I'm <a href="https://alittletry.github.io/" target="_blank">Anonym (alittletry)</a> <sup><a href="https://github.com/alittletry/alittletry/blob/master/Octoalittletry/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em>
 
@@ -30,54 +30,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href= "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://blog.csdn.net/alittletry" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://space.bilibili.com/62079686" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href= "https://www.instagram.com/alittletry_/" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank" alt="YouTube" title="YouTube">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://www.linkedin.com/in/alittletry" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
-  </a>
-  &emsp;
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://github.com/alittletry">
-    <img src="https://badges.pufler.dev/visits/alittletry/alittletry?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/alittletry">
-    <img src="https://badges.pufler.dev/years/alittletry?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/alittletry?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/alittletry?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/alittletry">
-    <img src="https://badges.pufler.dev/gists/alittletry?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/alittletry">
-    <img src="https://badges.pufler.dev/commits/monthly/alittletry?style=flat-square&color=black&logo=github">
-  </a>
-</p>
 
 <h2></h2>
 
@@ -116,11 +68,11 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+PHP	5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
+Vue	1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Uniapp     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Mysql	34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Js	17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
 ```
 <!--END_SECTION:waka-->
@@ -128,22 +80,5 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 > By the way, are you also curious about how to generate the list?
 > I wrote a script to generate it automatically, fork it. You can see [alittletry/alittletry](https://github.com/alittletry/alittletry).
 
-If you like ~~alittletry or me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [alittletry Sponsors](https://alittletry.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://alittletry.github.io/sponsor.html](https://alittletry.github.io/sponsor.html).
 
-<!--START_SECTION:sponsors-->
-<a href="https://alittletry.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<!--
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
-  </a>
-</p>
-<!--END_SECTION:sponsors-->
 
----
-
-🚧 **My Todoist Stats: ⬇️**
-
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=alittletry&repo=PaperWeeklyAI)](https://github.com/alittletry/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=alittletry&repo=Surface-Defect-Detection)](https://github.com/alittletry/Surface-Defect-Detection)
--->
